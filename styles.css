@@ -2,12 +2,15 @@ p {
   font-size: 30px;
   color: purple;
 }
+
 h3 {
   color: #3A808F;
 }
+
 body {
-  font: 'Sans Serif';
+  font-family: 'Sans Serif';
 }
+
 h1 {
   text-align: center;
 }
